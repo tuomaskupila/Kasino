@@ -1,0 +1,10 @@
+PELIN_NIMI;kukkuu
+PELAAJIENLKM;2
+HUMANLKM;2
+PELAAJAT;luuruu,jahuu
+KIERROSNUMERO;2
+KENEN_VUORO;2
+KUKA_OTTANUT_VIIMEKSI;jahuu
+PELAAJIEN_TIEDOT;luuruu,5,2,KASI*diamonds-10-75,OTETUT_KORTIT*spades-10-75*hearts-10-75*clubs-9-75*hearts-9-75*diamonds-13-75*spades-13-75*spades-12-75*clubs-12-75*spades-1-75*diamonds-7-75*hearts-3-75*hearts-4-75*diamonds-1-75*spades-9-75*diamonds-5-75*hearts-11-75*diamonds-6-75*hearts-2-75*diamonds-3-75*diamonds-4-75*clubs-4-75*spades-7-75*hearts-7-75;jahuu,6,1,KASI,OTETUT_KORTIT*clubs-3-75*spades-3-75*spades-5-75*hearts-5-75*spades-8-75*clubs-8-75*hearts-8-75*clubs-5-75*hearts-1-75*spades-4-75*hearts-13-75*clubs-11-75*clubs-2-75*hearts-6-75*spades-6-75*diamonds-12-75*hearts-12-75*spades-2-75*clubs-13-75*diamonds-2-75*clubs-10-75*clubs-1-75*diamonds-9-75*diamonds-11-75*spades-11-75
+POYTA;clubs-7-75;diamonds-8-75;clubs-6-75
+PAKKA

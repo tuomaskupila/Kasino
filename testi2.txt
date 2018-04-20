@@ -1,0 +1,10 @@
+PELIN_NIMI;Viimeinen testi
+PELAAJIENLKM;4
+HUMANLKM;4
+PELAAJAT;Aino,Liisi,Tuomas,Lauri
+KIERROSNUMERO;2
+KENEN_VUORO;1
+KUKA_OTTANUT_VIIMEKSI;Aino
+PELAAJIEN_TIEDOT;Aino,5,3,KASI*diamonds-8-75*hearts-11-75*clubs-11-75*hearts-7-75,OTETUT_KORTIT*diamonds-11-75*hearts-5-75*hearts-6-75*spades-1-75*diamonds-2-75*hearts-12-75*spades-10-75*diamonds-4-75*diamonds-1-75*diamonds-7-75*spades-6-75*hearts-1-75;Liisi,3,2,KASI*clubs-6-75*spades-3-75*clubs-9-75*clubs-2-75,OTETUT_KORTIT*clubs-7-75*spades-7-75*spades-8-75*diamonds-6-75*hearts-2-75;Tuomas,1,1,KASI*spades-2-75*clubs-5-75*hearts-3-75*clubs-13-75,OTETUT_KORTIT*diamonds-12-75*hearts-4-75*hearts-8-75*diamonds-9-75*clubs-4-75*diamonds-5-75*spades-12-75*hearts-9-75*diamonds-3-75*clubs-1-75*spades-5-75*spades-9-75;Lauri,2,4,KASI*spades-11-75*clubs-10-75*clubs-12-75*spades-4-75,OTETUT_KORTIT*spades-13-75*hearts-13-75*diamonds-10-75*diamonds-13-75*clubs-3-75
+POYTA;hearts-10-75;clubs-8-75
+PAKKA

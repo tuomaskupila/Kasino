@@ -1,0 +1,10 @@
+PELIN_NIMI;Tuomaksen testi
+PELAAJIENLKM;3
+HUMANLKM;3
+PELAAJAT;Aino,Random,Tuomas
+KIERROSNUMERO;1
+KENEN_VUORO;3
+KUKA_OTTANUT_VIIMEKSI;Random
+PELAAJIEN_TIEDOT;Aino,0,1,KASI,OTETUT_KORTIT*diamonds-11-75*hearts-3-75*clubs-4-75*spades-4-75*diamonds-10-75*clubs-7-75*hearts-9-75*diamonds-9-75*clubs-6-75*clubs-3-75*hearts-11-75*clubs-9-75*clubs-2-75*clubs-5-75*diamonds-5-75;Random,0,2,KASI,OTETUT_KORTIT*clubs-12-75*spades-12-75*spades-8-75*diamonds-8-75*spades-11-75*hearts-10-75*spades-1-75*clubs-13-75*spades-6-75*diamonds-3-75*hearts-4-75;Tuomas,0,3,KASI*clubs-11-75,OTETUT_KORTIT*spades-5-75*hearts-5-75*spades-2-75*diamonds-2-75*hearts-13-75*clubs-8-75*hearts-8-75*diamonds-1-75*spades-10-75*diamonds-4-75*diamonds-13-75*spades-13-75*spades-7-75*diamonds-7-75*hearts-6-75*diamonds-6-75*hearts-12-75*spades-3-75*spades-9-75*hearts-1-75*hearts-2-75*diamonds-12-75
+POYTA;hearts-7-75;clubs-1-75;clubs-10-75
+PAKKA
